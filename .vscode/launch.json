@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<lembrete>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.ifal.lembrete.DemoApplication",
+            "projectName": "lembrete",
+            "args": ""
+        }
+    ]
+}
